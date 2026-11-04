@@ -1,6 +1,6 @@
 {
-  "version": 1001,
+  "version": "0.1.0",
   "firmware": "firmware.bin",
-  "size": 2009648,
-  "sha256": "TEST_HASH"
+  "size": 2009232,
+  "sha256": "08a8ac4ea2cf33bd96f2e047f0206c039dabf11ce0d73274dbba1d6f6ed3b936"
 }
