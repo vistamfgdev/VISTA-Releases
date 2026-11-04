@@ -1,3 +1,6 @@
 {
-  "test": "VISTA OTA"
+  "version": 1001,
+  "firmware": "firmware.bin",
+  "size": 2009648,
+  "sha256": "TEST_HASH"
 }
