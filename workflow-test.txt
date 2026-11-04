@@ -1,2 +1,0 @@
-OTA publishing test from private VISTA repo
-Source commit: 6a2b39753cd2a62859a5435384c180f61d70b0b2
