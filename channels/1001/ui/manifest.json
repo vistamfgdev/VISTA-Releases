@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
     {
       "path": "/index.html",
@@ -9,7 +9,7 @@
     {
       "path": "/app.js",
       "size": 172698,
-      "sha256": "5a53f2a40f7a9ea02274ee3fd6d472429fd6a347d41f55666e70ee3cff700e7f"
+      "sha256": "41fc4f76c1d97b8103c7aa326aa8fac6cf54be511c747dad158b7c2a6e2d9b49"
     },
     {
       "path": "/styles.css",

@@ -6,7 +6,7 @@
 // =========================================================
 console.log("[VISTA] app.js loaded");
 
-const UI_VERSION = "0.1.0";
+const UI_VERSION = "0.1.1";
 
 // ---------- Tunables ----------
 const CONFIG = {
