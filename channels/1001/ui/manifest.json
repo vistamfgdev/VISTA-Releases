@@ -2,19 +2,40 @@
   "version": "0.1.1",
   "files": [
     {
-      "path": "/index.html",
-      "size": 617,
-      "sha256": "1e0997bc1f88119aef107112fe730012e783e1e156bb4f332e02dec3a3fc7cfb"
+      "path": "/index.html.gz",
+      "size": 335,
+      "sha256": "212c4f98784eab7bf5a00fc0c7975b6dc701554b62b4b2eba2af4a3bc4dc49a1",
+      "encoding": "gzip"
     },
     {
-      "path": "/app.js",
-      "size": 172698,
-      "sha256": "41fc4f76c1d97b8103c7aa326aa8fac6cf54be511c747dad158b7c2a6e2d9b49"
+      "path": "/app.js.gz",
+      "size": 33973,
+      "sha256": "4653a94f4948df879590c5d8770bae7db239c031ec2f3c4e6e57a0a4800e814e",
+      "encoding": "gzip"
     },
     {
-      "path": "/styles.css",
-      "size": 28424,
-      "sha256": "ccdcc6b29fd84ab0266990e4597163f0f8556d6991fa108c26a6740c04beebad"
+      "path": "/styles.css.gz",
+      "size": 5686,
+      "sha256": "8f1b8b7abfe90eb540ac170e357e0e8a294f03ce665ad2000fd43f3ec2fb0e30",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/channel-cards.js.gz",
+      "size": 6242,
+      "sha256": "94d5c73a9164a59d03c98967aad6f70f8af86fbe71fde374b0d8c0da79fe978d",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/color-wheel.js.gz",
+      "size": 3133,
+      "sha256": "d6c39e837f66f1899bc1700d2763e363c5da37bc71d632c097cdfac8df6bd044",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/ui.js.gz",
+      "size": 1735,
+      "sha256": "a9fc60b846fbfe9a4ee40461ab3730c6083213f6ea20ce363b1a555f62c51fa0",
+      "encoding": "gzip"
     },
     {
       "path": "/Vista-Logo-Thumbnail-Dark.png",
@@ -25,21 +46,6 @@
       "path": "/Vista-Logo-Thumbnail-White.png",
       "size": 15341,
       "sha256": "da69e5a1ea7cd658e9663a50d59a30ffb7463974666f7b89594c948467c45e45"
-    },
-    {
-      "path": "/components/channel-cards.js",
-      "size": 36344,
-      "sha256": "d4896425445e81015b3c7f26dcc0199bb7bcedda8ba764f0a80b6792e2efa063"
-    },
-    {
-      "path": "/components/color-wheel.js",
-      "size": 8908,
-      "sha256": "12c23f7d5999a77685ac57e65956c354a05130245dfbff2346a02675f7130105"
-    },
-    {
-      "path": "/components/ui.js",
-      "size": 4653,
-      "sha256": "78f0d7abd0b9ebb878962b4aed13c74dea8a92389bc0300111748c575c64a719"
     }
   ]
 }
