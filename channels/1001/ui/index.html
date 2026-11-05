@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>VISTA LED Controller</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <vista-app></vista-app>
+
+    <!-- Web Component scripts (load order matters: ui/wheel first, then channel-cards, then app) -->
+    <script src="/components/ui.js"></script>
+    <script src="/components/color-wheel.js"></script>
+    <script src="/components/channel-cards.js"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>

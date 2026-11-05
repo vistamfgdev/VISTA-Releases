@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "/index.html",
+      "size": 617,
+      "sha256": "1e0997bc1f88119aef107112fe730012e783e1e156bb4f332e02dec3a3fc7cfb"
+    },
+    {
+      "path": "/app.js",
+      "size": 172698,
+      "sha256": "5a53f2a40f7a9ea02274ee3fd6d472429fd6a347d41f55666e70ee3cff700e7f"
+    },
+    {
+      "path": "/styles.css",
+      "size": 28424,
+      "sha256": "ccdcc6b29fd84ab0266990e4597163f0f8556d6991fa108c26a6740c04beebad"
+    },
+    {
+      "path": "/Vista-Logo-Thumbnail-Dark.png",
+      "size": 33429,
+      "sha256": "142759392b74a6ec909bf52395afd3f6056c74ab9ed2bda6ffa051b9868b3262"
+    },
+    {
+      "path": "/Vista-Logo-Thumbnail-White.png",
+      "size": 15341,
+      "sha256": "da69e5a1ea7cd658e9663a50d59a30ffb7463974666f7b89594c948467c45e45"
+    },
+    {
+      "path": "/components/channel-cards.js",
+      "size": 36344,
+      "sha256": "d4896425445e81015b3c7f26dcc0199bb7bcedda8ba764f0a80b6792e2efa063"
+    },
+    {
+      "path": "/components/color-wheel.js",
+      "size": 8908,
+      "sha256": "12c23f7d5999a77685ac57e65956c354a05130245dfbff2346a02675f7130105"
+    },
+    {
+      "path": "/components/ui.js",
+      "size": 4653,
+      "sha256": "78f0d7abd0b9ebb878962b4aed13c74dea8a92389bc0300111748c575c64a719"
+    }
+  ]
+}
