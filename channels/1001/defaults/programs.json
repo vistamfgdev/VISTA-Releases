@@ -1,1 +1,19 @@
-{}
+{
+  "$schema": 1,
+  "inputs": [
+    {
+      "inputId": "Side Button",
+      "pin": 1,
+      "type": "digital",
+      "activeHigh": false,
+      "isAnalog": false,
+      "isSensor": false,
+      "sensorType": "",
+      "sensorValue": 0,
+      "threshold": 0,
+      "state": true
+    }
+  ],
+  "scenes": {},
+  "programs": {}
+}
