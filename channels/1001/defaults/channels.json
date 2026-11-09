@@ -1,1 +1,27 @@
-{}
+{
+  "$schema": 1,
+  "ch_spi": {
+    "active": true,
+    "seg_1": {
+      "name": "Full Strip",
+      "state": {
+        "running": true,
+        "brightness": 50,
+        "level": 0,
+        "color": { "r": 0, "g": 50, "b": 50, "w": 0, "warm": 0, "cool": 0 },
+        "animation": "comet",
+        "speed": 0,
+        "animationSize": 0,
+        "reverse": false,
+        "duty": 0,
+        "freq": 0,
+        "resolution": 0,
+        "start": 0,
+        "end": 0,
+        "brightnessFadeMs": 0,
+        "colorFadeMs": 0,
+        "onOffFadeMs": 0
+      }
+    }
+  }
+}
