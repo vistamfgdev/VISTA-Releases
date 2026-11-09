@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": [
     {
       "path": "/index.html.gz",
@@ -9,8 +9,8 @@
     },
     {
       "path": "/app.js.gz",
-      "size": 33973,
-      "sha256": "4653a94f4948df879590c5d8770bae7db239c031ec2f3c4e6e57a0a4800e814e",
+      "size": 35333,
+      "sha256": "d99540a6b9d2755fe715891e173ed939336f16a4d020301a911ef8fce431abe3",
       "encoding": "gzip"
     },
     {
