@@ -1,27 +1,89 @@
 {
   "$schema": 1,
-  "ch_spi": {
-    "active": true,
-    "seg_1": {
-      "name": "Full Strip",
-      "state": {
-        "running": true,
-        "brightness": 50,
-        "level": 0,
-        "color": { "r": 0, "g": 50, "b": 50, "w": 0, "warm": 0, "cool": 0 },
-        "animation": "comet",
-        "speed": 0,
-        "animationSize": 0,
-        "reverse": false,
-        "duty": 0,
-        "freq": 0,
-        "resolution": 0,
-        "start": 0,
-        "end": 0,
-        "brightnessFadeMs": 0,
-        "colorFadeMs": 0,
-        "onOffFadeMs": 0
+  "wifi": {
+    "enabled": true,
+    "ssid": "VistaLights",
+    "password": "testlights"
+  },
+  "ap": {
+    "enabled": true,
+    "secure": false,
+    "ssid": "C6-LED-Driver-02",
+    "password": ""
+  },
+  "device": {
+    "name": "C6 LED Driver 2",
+    "customerId": "",
+    "serial": "",
+    "hostName": "lights"
+  },
+  "mesh": {
+    "enabled": true,
+    "root": false,
+    "gateway": false,
+    "vendor": "Vista Manufacturing",
+    "meshId": 77,
+    "meshChannel": 0,
+    "meshPort": 5555,
+    "meshPrefix": "Mesh Prototype",
+    "meshPassword": "password",
+    "nodeList": []
+  },
+  "features": {
+    "pwm": true,
+    "wifi": true,
+    "ota": true,
+    "mesh": false,
+    "bluetooth": false,
+    "ethernet": false,
+    "poe": false,
+    "remote": false,
+    "display": true
+  },
+  "debugFlags": {
+    "inputDebug": false,
+    "runtimeDebug": false,
+    "outputDebug": false,
+    "ledDebug": false,
+    "pwmDebug": false,
+    "ISenseDebug": false,
+    "channelDebug": false,
+    "programDebug": false,
+    "presetDebug": false,
+    "builderDebug": false,
+    "groupDebug": false,
+    "wifiDebug": false,
+    "apiDebug": false,
+    "memoryDebug": false,
+    "meshDebug": false,
+    "btDebug": false
+  },
+  "channels": [
+    {
+      "id": "ch_spi",
+      "name": "Addressable",
+      "type": "addressable",
+      "pins": { "data": 0 },
+      "params": {
+        "productId": "VISTA-144/M-5V-FLEXI-ARGBW",
+        "currentSensePin": -1,
+        "autoSenseLength": false,
+        "physicalPixelCount": 0,
+        "autoSenseThreshold": 4,
+        "autoSenseSamples": 32,
+        "autoSenseSettleMs": 25
       }
     }
+  ],
+  "pins": {
+    "pwmSCL": 23,
+    "pwmSDA": 22,
+    "pairingButton": -1,
+    "adcData1": -1,
+    "adcData2": -1,
+    "adcData3": -1,
+    "adcData4": -1,
+    "canH": -1,
+    "canL": -1
   }
 }
