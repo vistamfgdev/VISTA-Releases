@@ -1,0 +1,103 @@
+{
+  "$schema": 1,
+  "wifi": {
+    "enabled": true,
+    "ssid": "VistaLights",
+    "password": "testlights"
+  },
+  "ap": {
+    "enabled": true,
+    "secure": false,
+    "ssid": "C3-LED-Driver-04",
+    "password": ""
+  },
+  "device": {
+    "name": "C3 LED Driver 4",
+    "serial": "",
+    "hostName": "lights"
+  },
+  "mesh": {
+    "enabled": false,
+    "root": false,
+    "gateway": false,
+    "vendor": "Vista Manufacturing",
+    "meshId": 77,
+    "meshChannel": 0,
+    "meshPort": 5555,
+    "meshPrefix": "Mesh Prototype",
+    "meshPassword": "password",
+    "nodeList": []
+  },
+  "features": {
+    "pwm": false,
+    "wifi": true,
+    "ota": true,
+    "mesh": false,
+    "bluetooth": false,
+    "ethernet": false,
+    "poe": false,
+    "remote": false
+  },
+  "debugFlags": {
+    "inputDebug": false,
+    "runtimeDebug": false,
+    "outputDebug": false,
+    "ledDebug": false,
+    "pwmDebug": false,
+    "ISenseDebug": true,
+    "channelDebug": false,
+    "programDebug": false,
+    "presetDebug": false,
+    "builderDebug": false,
+    "groupDebug": false,
+    "wifiDebug": false,
+    "apiDebug": false,
+    "memoryDebug": false,
+    "meshDebug": false,
+    "btDebug": false
+  },
+  "pins": {
+    "pairingButton": -1,
+    "data1": -1,
+    "data2": -1,
+    "data3": -1,
+    "data4": -1,
+    "adcData1": -1,
+    "adcData2": -1,
+    "adcData3": -1,
+    "adcData4": -1,
+    "canH": -1,
+    "canL": -1,
+    "pwmSCL": 7,
+    "pwmSDA": 6
+  },
+  "channels": [
+    {
+      "id": "ch_spi",
+      "name": "Addressable",
+      "type": "addressable",
+      "pins": {
+        "data": 2,
+        "r": -1,
+        "g": -1,
+        "b": -1,
+        "w": -1,
+        "warm": -1,
+        "cool": -1,
+        "out": -1
+      },
+      "params": {
+        "freq": 1000,
+        "resolution": 12,
+        "productId": "VISTA-144/M-5V-FLEXI-ARGBW",
+        "maxPixelCount": 0,
+        "currentSensePin": -1,
+        "autoSenseLength": false,
+        "physicalPixelCount": 26,
+        "autoSenseThreshold": 4,
+        "autoSenseSamples": 32,
+        "autoSenseSettleMs": 25
+      }
+    }
+  ]
+}

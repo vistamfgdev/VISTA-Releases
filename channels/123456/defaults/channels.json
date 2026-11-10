@@ -1,0 +1,33 @@
+{
+  "ch_spi": {
+    "active": true,
+    "seg_1": {
+      "name": "Full Strip",
+      "state": {
+        "running": true,
+        "brightness": 50,
+        "level": 0,
+        "color": {
+          "r": 100,
+          "g": 0,
+          "b": 0,
+          "w": 0,
+          "warm": 0,
+          "cool": 0
+        },
+        "animation": "theater-chase",
+        "speed": 80,
+        "animationSize": 38,
+        "reverse": true,
+        "duty": 0,
+        "freq": 0,
+        "resolution": 0,
+        "start": 0,
+        "end": 25,
+        "brightnessFadeMs": 0,
+        "colorFadeMs": 0,
+        "onOffFadeMs": 0
+      }
+    }
+  }
+}
