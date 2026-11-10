@@ -61,7 +61,7 @@
   "channels": [
     {
       "id": "ch_spi",
-      "name": "Addressable",
+      "name": "Factory Reset Test",
       "type": "addressable",
       "pins": { "data": 0 },
       "params": {
