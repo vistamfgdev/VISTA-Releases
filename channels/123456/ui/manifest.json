@@ -1,0 +1,51 @@
+{
+  "version": "0.1.2",
+  "files": [
+    {
+      "path": "/index.html.gz",
+      "size": 335,
+      "sha256": "212c4f98784eab7bf5a00fc0c7975b6dc701554b62b4b2eba2af4a3bc4dc49a1",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/app.js.gz",
+      "size": 35546,
+      "sha256": "6b4c3eb15b51c524e49f364ca4aa8ea1fe051838cd5d33242ab2603f940957af",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/styles.css.gz",
+      "size": 5686,
+      "sha256": "8f1b8b7abfe90eb540ac170e357e0e8a294f03ce665ad2000fd43f3ec2fb0e30",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/channel-cards.js.gz",
+      "size": 6242,
+      "sha256": "94d5c73a9164a59d03c98967aad6f70f8af86fbe71fde374b0d8c0da79fe978d",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/color-wheel.js.gz",
+      "size": 3133,
+      "sha256": "d6c39e837f66f1899bc1700d2763e363c5da37bc71d632c097cdfac8df6bd044",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/components/ui.js.gz",
+      "size": 1735,
+      "sha256": "a9fc60b846fbfe9a4ee40461ab3730c6083213f6ea20ce363b1a555f62c51fa0",
+      "encoding": "gzip"
+    },
+    {
+      "path": "/Vista-Logo-Thumbnail-Dark.png",
+      "size": 33429,
+      "sha256": "142759392b74a6ec909bf52395afd3f6056c74ab9ed2bda6ffa051b9868b3262"
+    },
+    {
+      "path": "/Vista-Logo-Thumbnail-White.png",
+      "size": 15341,
+      "sha256": "da69e5a1ea7cd658e9663a50d59a30ffb7463974666f7b89594c948467c45e45"
+    }
+  ]
+}
